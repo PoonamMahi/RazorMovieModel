@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{C3AC8E0A-9B1B-44B1-B63C-E70E3AA14D58}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Pages/Movies/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Models/Movie.cs">
     <Files>
-      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="19" Column="43" />
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="34" Column="2" />
       <File FileName="RazorPagesMovie/Startup.cs" Line="69" Column="1" />
       <File FileName="RazorPagesMovie/appsettings.Development.json" Line="15" Column="1" />
       <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="58" Column="37" />
@@ -15,13 +15,11 @@
         <State name="__root__">
           <Node name="RazorPagesMovie" expanded="True">
             <Node name="RazorPagesMovie" expanded="True">
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
               <Node name="Pages" expanded="True">
-                <Node name="Movies" expanded="True">
-                  <Node name="Index.cshtml" expanded="True">
-                    <Node name="Index.cshtml.cs" selected="True" />
-                  </Node>
-                </Node>
+                <Node name="Movies" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
