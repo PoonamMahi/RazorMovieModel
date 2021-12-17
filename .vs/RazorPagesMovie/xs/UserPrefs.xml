@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{C3AC8E0A-9B1B-44B1-B63C-E70E3AA14D58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Pages/Movies/Index.cshtml.cs">
+    <Files>
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="19" Column="43" />
+      <File FileName="RazorPagesMovie/Startup.cs" Line="69" Column="1" />
+      <File FileName="RazorPagesMovie/appsettings.Development.json" Line="15" Column="1" />
+      <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="58" Column="37" />
+      <File FileName="RazorPagesMovie/Program.cs" Line="41" Column="2" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" Line="70" Column="9" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="51" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Index.cshtml" expanded="True">
+                    <Node name="Index.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
